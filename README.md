@@ -1,7 +1,10 @@
-# Free Sticker for a Pull Request
+# CougarCS Git Workshop: Zero to Hero
 
 This project provides a CLI script that allows you to encrypt your mailing address with a public key. I can then decrypt it with my private key and mail you a sticker.
 
+## Workshop Date: Nov 5, 2020 from 7pm - 8:30pm
+
+No pull requests will be accepted before the event starts.
 
 ## Instructions
 
@@ -21,3 +24,7 @@ Note: Your commit must contain **only 1 file**. Verify that you did not change a
 ## Working
 
 You can have a look at the inner workings [here](working.md).
+
+## Credits
+
+This repo was clone from [here](https://github.com/codediodeio/gimmie-sticker). The inspiration for this workshop comes from this [video](https://youtu.be/HkdAHXoRtos)
