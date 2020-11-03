@@ -14,7 +14,7 @@ Note: Your commit must contain **only 1 file**. Verify that you did not change a
 1. `fork this repo`
 1. `git clone` your fork url
 1. Enter the project and run `npm install && git checkout -b mysticker`
-1. `npm run address` and enter your address carefully.
+1. `npm run address` and enter your address carefully OR encrypt your address here: https://wonderful-edison-6f2992.netlify.app/.
 1. Copy the encrypted address to a new file in `/stickers/<your-github-username>.txt`
 1. `git add . && git commit -m <your-message>`
 1. `git push origin mysticker`
