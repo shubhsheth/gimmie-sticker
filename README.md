@@ -19,7 +19,7 @@ Note: Your commit must contain **only 1 file**. Verify that you did not change a
 1. `git add . && git commit -m <your-message>`
 1. `git push origin mysticker`
 1. Open new pull request on Github
-1. Wait 1 to 2 weeks for the sticker 💌
+1. Wait 3 to 4 weeks for the sticker 💌
 
 ## Working
 
